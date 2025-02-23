@@ -1,4 +1,4 @@
-# Welcome Wonderbotz Team to This Repository
+# Welcome to This Repository
 
 I have created a small Python Selenium script to automate the application process for the "Automation Anywhere Developer" position on your website. This task took me approximately **1 hour** to complete with the assistance of ChatGPT.
 ![ - visual selection](https://github.com/user-attachments/assets/321a0885-2892-488b-9730-c073a9d57211)
